@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="flowfen">
+    <output-path>$PROJECT_DIR$/out/artifacts/flowfen</output-path>
+    <root id="archive" name="flowfen.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/java/flowsum" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="untitled1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled1_jar</output-path>
+    <root id="archive" name="client2.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/zookeeper/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="TestData" />
+      <element id="module-output" name="zookeeper" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper-jute/3.5.5/zookeeper-jute-3.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.5.5/zookeeper-3.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/4.13-beta-3/junit-4.13-beta-3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.29.Final/netty-all-4.1.29.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
